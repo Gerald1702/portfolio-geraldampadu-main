@@ -1,6 +1,6 @@
 import React from 'react'
 import Title from '../layouts/index.js'
-import { project1, ziibo, project11 , project15, project16, project20, project50,project09, project00} from "../../assets/index.js";
+import { project1, ziibo, project11 , project15, project16, project20, project50,project09, project00, project17} from "../../assets/index.js";
 import ProjectsCard from './Projectscard.js';
 
 
@@ -58,19 +58,24 @@ const Projects = () => {
           src={project00}
         /> */}
         <ProjectsCard
-          title="Xmas Flyer"
-          des=" Spreading holiday cheer! Designed a delightful Christmas flyer with warm wishes."
+          title="JANGO"
+          des=" Jango is a short film produced by Gabriel Duranti that explores themes of identity, freedom, and the human experience. The film follows the journey of a young man named Jango, who embarks on a quest to discover his true self in a world filled with societal expectations and limitations."
           src={project11}
         />
         <ProjectsCard
-          title="Food Flyer"
-          des="Made mouths water with a delicious food flyer design!"
+          title="Happy Smiles Flyer"
+          des="A happy smile is a universal language, communicating happiness, kindness, and positivity without saying a word. It has the power to lift spirits, mend hearts, and create connections between people. So let your smile shine bright, and watch as it lights up the world around you."
           src={project15}
         />
         <ProjectsCard
-          title="AG Logo"
-          des=" Spearheaded Atinad Graphics' branding with a captivating logo design"
+          title="bolt"
+          des=" With a few taps on your phone, you can request a ride and be on your way in minutes. Say goodbye to long waits and expensive fares – Bolt Ride is fast, affordable, and reliable. Download the app today and experience the future of transportation with Bolt Ride."
           src={project16}
+        />
+        <ProjectsCard
+          title="QUEENS OF AFRICA"
+          des=" Queens of Africa is an empowering program that celebrates the strength, beauty, and resilience of African women."
+          src={project17}
         />
       </div>
     </section>
