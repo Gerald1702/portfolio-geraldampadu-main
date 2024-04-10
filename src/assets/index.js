@@ -1,6 +1,6 @@
 import logog from "./images/logog.png"
 import banner from "./images/me/banner.png";
-import project1 from "./images/projects/project.1.JPG";
+import project1 from "./images/projects/project.1.jpg";
 import ziibo from "./images/projects/ziibo.png";
 import project17 from "./images/projects/project.17.png";
 import project20 from "./images/projects/project.20.JPG";
