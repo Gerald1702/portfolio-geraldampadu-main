@@ -4,7 +4,7 @@ import project1 from "./images/projects/project.1.jpg";
 import ziibo from "./images/projects/ziibo.png";
 import project17 from "./images/projects/project.17.png";
 import project20 from "./images/projects/project.20.jpg";
-import project11 from "./images/projects/project.11.jpg"
+import project11 from "./images/projects/project.11.JPG"
 import project15 from "./images/projects/project.15.jpg"
 import project16 from "./images/projects/project.16.jpg"
 import project09 from "./images/projects/project.09.jpg"
