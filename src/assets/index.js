@@ -30,7 +30,7 @@ export {
   project00,
   
  
-  Zappah,
+  
   contactImg,
   quote,
   
