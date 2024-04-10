@@ -10,7 +10,7 @@ import project16 from "./images/projects/project.16.JPG"
 import project09 from "./images/projects/project.09.jpg"
 import project00 from "./images/projects/project00.png"
 import project50 from "./images/projects/project.50.jpg
-import Zappah from "./images/testimonials/zappah.JPG";
+
 import contactImg from "./images/contactImg.jpg";
 import quote from "./images/quote.png";
 
